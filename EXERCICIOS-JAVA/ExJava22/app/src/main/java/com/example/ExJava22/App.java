@@ -21,7 +21,7 @@ public class App {
     float somaPrecoVenda = 0.0f;
     
     int i = 0; //declarou a variavel fora do for, pra poder usa-la fora do for
-    for(; i < 2; i++){
+    for(; i < 40; i++){
         
         System.out.println("Digite o nome do produto: ");
         nomeProduto = leitor.next();
