@@ -5,7 +5,6 @@ import java.util.Date;
 
 public class App {
 
-
     public static void main(String[] args) {
         
         Vendedor v = new Vendedor();
@@ -19,6 +18,7 @@ public class App {
         System.out.println("O salário do vendedor é " + v.calcularSalario());
         
         Motorista m = new Motorista();
+        
     }
 
 }
