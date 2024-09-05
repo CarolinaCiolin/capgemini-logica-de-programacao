@@ -6,8 +6,6 @@ a. o número do item faturado,
 b. a descrição do item,
 c. a quantidade comprada do item e
 d. o preço unitário do item.
-Curso de Lógica para Programação III
-Instrutor: Marcio Michelluzzi
 Sua classe deve ter um construtor que inicialize os quatro atributos. Se a 
 quantidade não for positiva, ela deve ser configurada como 0. Se o preço por 
 item não for positivo ele deve ser configurado como 0.0. Forneça os métodos
